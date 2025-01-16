@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12fd6c2a-8dd0-48b4-a854-dafcfdc68e0f" name="Changes" comment="1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ToiDiDaoCode" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hoquangvinh124&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hoquangvinh124/TDT_TonDucThang.git&quot;,
+    &quot;accountId&quot;: &quot;fb34e35e-3797-48dc-b2a2-799e2c6dbd36&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qeUwuC9EsbPn4urotH7xoj4IHz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in 29.py.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.18.executor": "Run",
+    "Python.19.executor": "Debug",
+    "Python.28.executor": "Run",
+    "Python.29.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.30.executor": "Run",
+    "Python.31.executor": "Run",
+    "Python.34.executor": "Run",
+    "Python.37.executor": "Run",
+    "Python.38.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.40.executor": "Run",
+    "Python.41.executor": "Run",
+    "Python.42.executor": "Run",
+    "Python.43.executor": "Run",
+    "Python.44.executor": "Run",
+    "Python.46.executor": "Run",
+    "Python.47.executor": "Run",
+    "Python.48_chua_lam.executor": "Run",
+    "Python.49.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.50.executor": "Run",
+    "Python.51.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.8.executor": "Run",
+    "Python.App.executor": "Run",
+    "Python.Book_Selling_Ex.executor": "Run",
+    "Python.MainWindowEx.executor": "Run",
+    "Python.MyApp.executor": "Run",
+    "Python.Palindrome_ex.executor": "Run",
+    "Python.Trinh_Tran_Phuong_Tuan_ex.executor": "Run",
+    "Python.array-application.executor": "Run",
+    "Python.book_managements_ex.executor": "Debug",
+    "Python.calculation_ex.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_ex.executor": "Debug",
+    "Python.lucky_game.executor": "Debug",
+    "Python.lucky_game_ex.executor": "Debug",
+    "Python.main.executor": "Run",
+    "Python.s_ex.executor": "Run",
+    "Python.soft_ex.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.testr.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/ToiDiDaoCode"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TDT!!!\E95\ui" />
+      <recent name="D:\TDT!!!\95\ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TDT!!!\58" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12fd6c2a-8dd0-48b4-a854-dafcfdc68e0f" name="Changes" comment="" />
+      <created>1735022776218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735022776218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1735619765653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735619765653</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1735643783457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735643783457</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/19.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/19.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
