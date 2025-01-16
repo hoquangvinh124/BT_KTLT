@@ -8,19 +8,19 @@ class MainWindowEx(Ui_MainWindow):
         self.MainWindow = MainWindow
         self.comboBox.activated.connect(self.process_selected_combobox)
 
-        fb_icon = QIcon(r"\E95\images\fb.png")
+        fb_icon = QIcon(r"../images/fb.png")
         fb = Category(1, "Facebook")
         self.comboBox.addItem(fb_icon, fb.name, fb)
 
-        insta_icon = QIcon("/E95/images/insta.png")
+        insta_icon = QIcon("../images/insta.png")
         insta = Category(2, "Instagram")
         self.comboBox.addItem(insta_icon, insta.name, insta)
 
-        threads_icon = QIcon("E95/images/threads.png")
+        threads_icon = QIcon("../images/threads.png")
         threads = Category(3, "Threads")
         self.comboBox.addItem(threads_icon, threads.name, threads)
 
-        x_icon = QIcon("E95/images/x.png")
+        x_icon = QIcon("../images/x.png")
         x = Category(4, "X")
         self.comboBox.addItem(x_icon, x.name, x)
 
