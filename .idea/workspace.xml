@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12fd6c2a-8dd0-48b4-a854-dafcfdc68e0f" name="Changes" comment="1" />
+    <list default="true" id="12fd6c2a-8dd0-48b4-a854-dafcfdc68e0f" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/58/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E59/lib/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45/book_managements.py" beforeDir="false" afterPath="$PROJECT_DIR$/45/book_managements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/58/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/58/employee_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/58/employee_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/images/134224_add_plus_new_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/134224_add_plus_new_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/images/211863_minus_round_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/211863_minus_round_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/images/6637759_close_delete_multiply_remove_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/6637759_close_delete_multiply_remove_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/images/8665252_divide_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/8665252_divide_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/lib/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/ui/MyApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/MyApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/ui/ka_ku_la_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/ka_ku_la_to.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/ui/ka_ku_la_to.ui" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/ka_ku_la_to.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59/ui/ka_ku_la_to_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/ka_ku_la_to_ext.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ToiDiDaoCode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -29,7 +46,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/hoquangvinh124/TDT_TonDucThang.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/hoquangvinh124/ToiDiDaoCode.git&quot;,
     &quot;accountId&quot;: &quot;fb34e35e-3797-48dc-b2a2-799e2c6dbd36&quot;
   }
 }</component>
@@ -44,66 +61,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in 29.py.executor": "Run",
-    "Python.16.executor": "Run",
-    "Python.17.executor": "Run",
-    "Python.18.executor": "Run",
-    "Python.19.executor": "Debug",
-    "Python.28.executor": "Run",
-    "Python.29.executor": "Run",
-    "Python.3.executor": "Run",
-    "Python.30.executor": "Run",
-    "Python.31.executor": "Run",
-    "Python.34.executor": "Run",
-    "Python.37.executor": "Run",
-    "Python.38.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.40.executor": "Run",
-    "Python.41.executor": "Run",
-    "Python.42.executor": "Run",
-    "Python.43.executor": "Run",
-    "Python.44.executor": "Run",
-    "Python.46.executor": "Run",
-    "Python.47.executor": "Run",
-    "Python.48_chua_lam.executor": "Run",
-    "Python.49.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.50.executor": "Run",
-    "Python.51.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.8.executor": "Run",
-    "Python.App.executor": "Run",
-    "Python.Book_Selling_Ex.executor": "Run",
-    "Python.MainWindowEx.executor": "Run",
-    "Python.MyApp.executor": "Run",
-    "Python.Palindrome_ex.executor": "Run",
-    "Python.Trinh_Tran_Phuong_Tuan_ex.executor": "Run",
-    "Python.array-application.executor": "Run",
-    "Python.book_managements_ex.executor": "Debug",
-    "Python.calculation_ex.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list_ex.executor": "Debug",
-    "Python.lucky_game.executor": "Debug",
-    "Python.lucky_game_ex.executor": "Debug",
-    "Python.main.executor": "Run",
-    "Python.s_ex.executor": "Run",
-    "Python.soft_ex.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.testr.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/ToiDiDaoCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in 29.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.37.executor&quot;: &quot;Run&quot;,
+    &quot;Python.38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.48_chua_lam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.49.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.50.executor&quot;: &quot;Run&quot;,
+    &quot;Python.51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_Selling_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainWindowEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyApp.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Palindrome_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Trinh_Tran_Phuong_Tuan_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array-application.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book_managements_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculation_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ka_ku_la_to_ext.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_ex.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lucky_game.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lucky_game_ex.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manage_students_ex.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.s_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soft.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soft_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.t.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testr.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/TDT!!!/E60/ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TDT!!!\E60\ui" />
+      <recent name="D:\TDT!!!\E60" />
+      <recent name="D:\pythonProject" />
       <recent name="D:\TDT!!!\E95\ui" />
       <recent name="D:\TDT!!!\95\ui" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TDT!!!\E60\ui" />
       <recent name="D:\TDT!!!\58" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToiDiDaoCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\TDT!!!\E95" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/E95/ui/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -137,8 +195,27 @@
       <option name="project" value="LOCAL" />
       <updated>1735643783457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1737054572855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737054572855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
