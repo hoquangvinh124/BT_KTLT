@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Sigma Boi</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>Student Name:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lineEdit"/>
+      </item>
+      <item>
+       <widget class="QPushButton" name="updateButton">
+        <property name="text">
+         <string>Update</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QListWidget" name="listWidgetA">
+        <item>
+         <property name="text">
+          <string>Tlinh</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Mck</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Wrxdie</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Rhyder</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QPushButton" name="moveRightButton">
+          <property name="text">
+           <string>&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="moveAllRightButton">
+          <property name="text">
+           <string>&gt;&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="moveLeftButton">
+          <property name="text">
+           <string>&lt;</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="moveAllLeftButton">
+          <property name="text">
+           <string>&lt;&lt;</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QListWidget" name="listWidgetB">
+        <item>
+         <property name="text">
+          <string>buitruonglinh</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>VCC Left Hand</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Dương Domic</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <item>
+       <widget class="QPushButton" name="removeClassAButton">
+        <property name="text">
+         <string>Remove class A</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="finishButton">
+        <property name="text">
+         <string>FINISH</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="removeClassBButton">
+        <property name="text">
+         <string>Remove class B</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>lineEdit</tabstop>
+  <tabstop>updateButton</tabstop>
+  <tabstop>listWidgetA</tabstop>
+  <tabstop>moveRightButton</tabstop>
+  <tabstop>moveAllRightButton</tabstop>
+  <tabstop>moveLeftButton</tabstop>
+  <tabstop>moveAllLeftButton</tabstop>
+  <tabstop>listWidgetB</tabstop>
+  <tabstop>removeClassAButton</tabstop>
+  <tabstop>finishButton</tabstop>
+  <tabstop>removeClassBButton</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

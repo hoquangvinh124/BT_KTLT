@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12fd6c2a-8dd0-48b4-a854-dafcfdc68e0f" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/58/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E59/lib/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ToiDiDaoCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ToiDiDaoCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/39.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/45/book_managements.py" beforeDir="false" afterPath="$PROJECT_DIR$/45/book_managements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/58/code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/58/employee_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/58/employee_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/images/134224_add_plus_new_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/134224_add_plus_new_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/images/211863_minus_round_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/211863_minus_round_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/images/6637759_close_delete_multiply_remove_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/6637759_close_delete_multiply_remove_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/images/8665252_divide_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/E59/images/8665252_divide_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/lib/code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/ui/MyApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/MyApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/ui/ka_ku_la_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/ka_ku_la_to.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/ui/ka_ku_la_to.ui" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/ka_ku_la_to.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59/ui/ka_ku_la_to_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/E59/ui/ka_ku_la_to_ext.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,16 +78,19 @@
     &quot;Python.51.executor&quot;: &quot;Run&quot;,
     &quot;Python.7.executor&quot;: &quot;Run&quot;,
     &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AduASen_ex.executor&quot;: &quot;Debug&quot;,
     &quot;Python.App.executor&quot;: &quot;Run&quot;,
     &quot;Python.Book_Selling_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex99_ui.executor&quot;: &quot;Debug&quot;,
     &quot;Python.MainWindowEx.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MyApp.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.MyApp.executor&quot;: &quot;Run&quot;,
     &quot;Python.Palindrome_ex.executor&quot;: &quot;Run&quot;,
     &quot;Python.Trinh_Tran_Phuong_Tuan_ex.executor&quot;: &quot;Run&quot;,
     &quot;Python.array-application.executor&quot;: &quot;Run&quot;,
     &quot;Python.book_managements_ex.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculation_ex.executor&quot;: &quot;Run&quot;,
     &quot;Python.code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_ex.executor&quot;: &quot;Debug&quot;,
     &quot;Python.ka_ku_la_to_ext.executor&quot;: &quot;Debug&quot;,
     &quot;Python.list.executor&quot;: &quot;Run&quot;,
     &quot;Python.list_ex.executor&quot;: &quot;Debug&quot;,
@@ -110,24 +100,25 @@
     &quot;Python.manage_students_ex.executor&quot;: &quot;Debug&quot;,
     &quot;Python.s_ex.executor&quot;: &quot;Run&quot;,
     &quot;Python.soft.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soft_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soft_ex.executor&quot;: &quot;Debug&quot;,
     &quot;Python.student.executor&quot;: &quot;Debug&quot;,
     &quot;Python.t.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.t2.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.testr.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/TDT!!!/E60/ui&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/TDT!!!/E97/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TDT!!!\E97\images" />
+      <recent name="D:\TDT!!!\E96\images" />
       <recent name="D:\TDT!!!\E60\ui" />
       <recent name="D:\TDT!!!\E60" />
       <recent name="D:\pythonProject" />
-      <recent name="D:\TDT!!!\E95\ui" />
-      <recent name="D:\TDT!!!\95\ui" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TDT!!!\E60\ui" />
@@ -203,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737054572855</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1737408418398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737408418398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
