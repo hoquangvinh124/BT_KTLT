@@ -1,0 +1,4 @@
+1;Lốp Thường;12
+2;Lốp Vip;19.75
+3;Lốp Vip Pro Max;14
+4;Lốp Michelin;9999.0

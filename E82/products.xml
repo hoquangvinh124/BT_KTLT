@@ -1,0 +1,14 @@
+<products>
+    <product id="1">
+        <name>Heineken</name>
+        <price>1.5</price>
+    </product>
+    <product id="2">
+        <name>Tiger</name>
+        <price>1.3</price>
+    </product>
+    <product id="3">
+        <name>Sapporo</name>
+        <price>1.4</price>
+    </product>
+<product id="4 "><name>Bia Quy Nhơn</name><price>1.2</price></product><product id="5"><name>Bia ôm</name><price>575</price></product></products>
