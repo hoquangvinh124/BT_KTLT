@@ -1,0 +1,38 @@
+[
+    {
+        "employee_id": "E1",
+        "employee_name": "Elysia",
+        "username": "elysia_pinkelf",
+        "password": "123"
+    },
+    {
+        "employee_id": "E2",
+        "employee_name": "Hồ Quang Vinh",
+        "username": "hoquangvinh124",
+        "password": "123"
+    },
+    {
+        "employee_id": "E3",
+        "employee_name": "Mobius",
+        "username": "mobius_snake",
+        "password": "456"
+    },
+    {
+        "employee_id": "E4",
+        "employee_name": "Vill-V",
+        "username": "villv_trickster",
+        "password": "abc1"
+    },
+    {
+        "employee_id": "E5",
+        "employee_name": "Aponia",
+        "username": "aponia_discipline",
+        "password": "x@123"
+    },
+    {
+        "employee_id": "E6",
+        "employee_name": "Eden",
+        "username": "eden_gold",
+        "password": "y1231"
+    }
+]

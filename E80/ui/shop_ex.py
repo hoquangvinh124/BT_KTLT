@@ -1,4 +1,3 @@
-
 from E80.FileFactory import *
 from E80.Product import *
 from PyQt6.QtWidgets import QPushButton, QVBoxLayout, QWidget, QMessageBox, QDialog, QLabel, QInputDialog

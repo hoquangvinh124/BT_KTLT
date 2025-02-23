@@ -1,0 +1,16 @@
+[
+    {"product_id": 101, "name": "Intel Core i9-12900K", "category": "CPU", "unit_price": 550, "manufacturer": "Intel"},
+    {"product_id": 102, "name": "AMD Ryzen 9 5900X", "category": "CPU", "unit_price": 450, "manufacturer": "AMD"},
+    {"product_id": 103, "name": "NVIDIA RTX 3080", "category": "GPU", "unit_price": 700, "manufacturer": "NVIDIA"},
+    {"product_id": 104, "name": "AMD Radeon RX 6800 XT", "category": "GPU", "unit_price": 650, "manufacturer": "AMD"},
+    {"product_id": 105, "name": "Corsair Vengeance 32GB DDR4", "category": "RAM", "unit_price": 120, "manufacturer": "Corsair"},
+    {"product_id": 106, "name": "G.Skill Trident Z 16GB DDR4", "category": "RAM", "unit_price": 80, "manufacturer": "G.Skill"},
+    {"product_id": 107, "name": "Seagate Barracuda 2TB", "category": "HDD", "unit_price": 60, "manufacturer": "Seagate"},
+    {"product_id": 108, "name": "WD Black 4TB", "category": "HDD", "unit_price": 100, "manufacturer": "Western Digital"},
+    {"product_id": 109, "name": "Samsung 970 EVO Plus 1TB", "category": "SSD", "unit_price": 150, "manufacturer": "Samsung"},
+    {"product_id": 110, "name": "Crucial P5 500GB", "category": "SSD", "unit_price": 80, "manufacturer": "Crucial"},
+    {"product_id": 111, "name": "ASUS ROG STRIX Z690-E", "category": "Mainboard", "unit_price": 300, "manufacturer": "ASUS"},
+    {"product_id": 112, "name": "MSI B550 Tomahawk", "category": "Mainboard", "unit_price": 180, "manufacturer": "MSI"},
+    {"product_id": 113, "name": "LG UltraGear 27GL850", "category": "Monitor", "unit_price": 400, "manufacturer": "LG"},
+    {"product_id": 114, "name": "Dell Alienware AW3423DW", "category": "Monitor", "unit_price": 1000, "manufacturer": "Dell"}
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<devices>
+    <device groupid="g1">
+        <id>dv1</id>
+        <name>Device 1</name>
+    </device>
+    <device groupid="g1">
+        <id>dv2</id>
+        <name>Device 2</name>
+    </device>
+    <device groupid="g2">
+        <id>dv3</id>
+        <name>Device 3</name>
+    </device>
+    <device groupid="g3">
+        <id>dv4</id>
+        <name>Device 4</name>
+    </device>
+    <device groupid="g3">
+        <id>dv5</id>
+        <name>Device 5</name>
+    </device>
+</devices>

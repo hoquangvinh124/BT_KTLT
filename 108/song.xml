@@ -1,0 +1,92 @@
+<Songs>
+    <Song>
+        <SongCode>SONG001</SongCode>
+        <SongName>Phong Long</SongName>
+        <ComposerName>Low G, Obito, WOKEUP</ComposerName>
+        <Singers>
+            <SingerCode>S001</SingerCode>
+            <SingerCode>S002</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG002</SongCode>
+        <SongName>Không Phải Gu</SongName>
+        <ComposerName>HIEUTHUHAI, B Ray, Tage</ComposerName>
+        <Singers>
+            <SingerCode>S003</SingerCode>
+            <SingerCode>S004</SingerCode>
+            <SingerCode>S005</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG003</SongCode>
+        <SongName>À Lôi</SongName>
+        <ComposerName>Double2T, Masew</ComposerName>
+        <Singers>
+            <SingerCode>S006</SingerCode>
+            <SingerCode>S007</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG004</SongCode>
+        <SongName>BUỒN HAY VUI</SongName>
+        <ComposerName>VSOUL, MCK, Obito, Ronboogz, Boyzed</ComposerName>
+        <Singers>
+            <SingerCode>S008</SingerCode>
+            <SingerCode>S009</SingerCode>
+            <SingerCode>S002</SingerCode>
+            <SingerCode>S010</SingerCode>
+            <SingerCode>S011</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG005</SongCode>
+        <SongName>Ngân</SongName>
+        <ComposerName>tlinh</ComposerName>
+        <Singers>
+            <SingerCode>S012</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG006</SongCode>
+        <SongName>Hop On Da Show</SongName>
+        <ComposerName>tlinh</ComposerName>
+        <Singers>
+            <SingerCode>S012</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG007</SongCode>
+        <SongName>Phóng Zìn Zìn</SongName>
+        <ComposerName>tlinh</ComposerName>
+        <Singers>
+            <SingerCode>S012</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG008</SongCode>
+        <SongName>Đi Giữa Trời Rực Rỡ</SongName>
+        <ComposerName>Ngô Lan Hương</ComposerName>
+        <Singers>
+            <SingerCode>S013</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG009</SongCode>
+        <SongName>Về Quê</SongName>
+        <ComposerName>Mikelodic, Đặng Thái Bình</ComposerName>
+        <Singers>
+            <SingerCode>S014</SingerCode>
+            <SingerCode>S015</SingerCode>
+        </Singers>
+    </Song>
+    <Song>
+        <SongCode>SONG010</SongCode>
+        <SongName>Baby Gọi Cho Anh</SongName>
+        <ComposerName>Captain, UMIE</ComposerName>
+        <Singers>
+            <SingerCode>S016</SingerCode>
+            <SingerCode>S017</SingerCode>
+        </Singers>
+    </Song>
+</Songs>

@@ -1,0 +1,70 @@
+<Singers>
+    <Singer>
+        <SingerCode>S001</SingerCode>
+        <SingerName>Low G</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S002</SingerCode>
+        <SingerName>Obito</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S003</SingerCode>
+        <SingerName>HIEUTHUHAI</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S004</SingerCode>
+        <SingerName>B Ray</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S005</SingerCode>
+        <SingerName>Tage</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S006</SingerCode>
+        <SingerName>Double2T</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S007</SingerCode>
+        <SingerName>Masew</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S008</SingerCode>
+        <SingerName>VSOUL</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S009</SingerCode>
+        <SingerName>MCK</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S010</SingerCode>
+        <SingerName>Ronboogz</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S011</SingerCode>
+        <SingerName>Boyzed</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S012</SingerCode>
+        <SingerName>tlinh</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S013</SingerCode>
+        <SingerName>Ngô Lan Hương</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S014</SingerCode>
+        <SingerName>Mikelodic</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S015</SingerCode>
+        <SingerName>Đặng Thái Bình</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S016</SingerCode>
+        <SingerName>Captain</SingerName>
+    </Singer>
+    <Singer>
+        <SingerCode>S017</SingerCode>
+        <SingerName>UMIE</SingerName>
+    </Singer>
+</Singers>

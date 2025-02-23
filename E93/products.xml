@@ -1,0 +1,27 @@
+<products>
+    <product id="1">
+        <name>Heineken</name>
+        <price>1.5</price>
+        <file_path>../Images/heineken.png</file_path>
+    </product>
+    <product id="2">
+        <name>Tiger</name>
+        <price>1.3</price>
+        <file_path>../Images/tiger.png</file_path>
+    </product>
+    <product id="3">
+        <name>Sapporo</name>
+        <price>1.4</price>
+        <file_path>../Images/sapporo.png</file_path>
+    </product>
+    <product id="4">
+        <name>Bia Quy Nhơn</name>
+        <price>1.2</price>
+        <file_path>../Images/quy_nhon.png</file_path>
+    </product>
+    <product id="5">
+        <name>Bia ôm</name>
+        <price>575</price>
+        <file_path>../Images/bia_om.png</file_path>
+    </product>
+</products>

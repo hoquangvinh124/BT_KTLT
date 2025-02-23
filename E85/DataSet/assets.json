@@ -1,0 +1,44 @@
+[
+    {
+        "asset_id": "AS1",
+        "asset_name": "Điện thoại iPhone 16 Pro",
+        "import_year": 2025,
+        "value": 30
+    },
+    {
+        "asset_id": "AS2",
+        "asset_name": "Điện thoại Samsung Galaxy S25 Ultra",
+        "import_year": 2025,
+        "value": 28
+    },
+    {
+        "asset_id": "AS3",
+        "asset_name": "Điện thoại Google Pixel 9 Pro",
+        "import_year": 2024,
+        "value": 26
+    },
+    {
+        "asset_id": "AS4",
+        "asset_name": "Điện thoại Xiaomi 14 Ultra",
+        "import_year": 2025,
+        "value": 24
+    },
+    {
+        "asset_id": "AS5",
+        "asset_name": "Điện thoại OnePlus 13",
+        "import_year": 2024,
+        "value": 23
+    },
+    {
+        "asset_id": "AS6",
+        "asset_name": "Điện thoại Oppo Find X7 Pro",
+        "import_year": 2025,
+        "value": 22
+    },
+    {
+        "asset_id": "AS7",
+        "asset_name": "Điện thoại Vivo X100 Pro",
+        "import_year": 2024,
+        "value": 21
+    }
+]

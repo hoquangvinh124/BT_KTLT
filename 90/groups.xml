@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<groups>
+    <group>
+        <id>g1</id>
+        <name>Group 1</name>
+    </group>
+    <group>
+        <id>g2</id>
+        <name>Group 2</name>
+    </group>
+    <group>
+        <id>g3</id>
+        <name>Group 3</name>
+    </group>
+</groups>
+
+
